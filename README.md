@@ -1,6 +1,3 @@
-### Hi there 👋
-
-<!--
 # Daniel Corrales León - 
 
 ¡Hola! Soy Daniel Corrales León, un apasionado estudiante de 19 años actualmente cursando el primer año de Desarrollo de Aplicaciones Multiplataforma (DAM). Además, poseo un Grado Medio en Sistemas Microinformáticos y Redes (SMX). Mi fascinación por la programación me ha llevado a trabajar con diversas tecnologías, destacando mi experiencia en Java. He creado varios videojuegos simples, entre ellos, una versión de "Hundir la Flota" y una adaptación de "Monkey Island".
