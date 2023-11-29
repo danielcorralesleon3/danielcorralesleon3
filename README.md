@@ -33,4 +33,4 @@ Mi meta es dedicarme de lleno al desarrollo de videojuegos. La creatividad, la r
 - **Correo Electrónico:** [danielcleon10@gmail.com]
 - **Numero de teléfono:** [607 56 17 05]
 
-Estoy emocionado por las oportunidades que el mundo del desarrollo de videojuegos tiene para ofrecer. ¡Si compartes esta pasión o tienes alguna oportunidad interesante, estaré encantado de conectarme contigo!
+Estoy emocionado por las oportunidades que el mundo del desarrollo tiene para ofrecer. ¡Si compartes esta pasión o tienes alguna oportunidad interesante, estaré encantado de conectarme contigo!
