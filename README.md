@@ -8,7 +8,7 @@
 Durante mi trayectoria, he participado en la creación de varios videojuegos simples, lo cual ha sido la experiencia que más me ha cautivado, y he explorado la creación de interfaces atractivas mediante HTML y CSS.
 
 ## Experiencia Laboral 🌐
-Prácticas en Empresa Hotelera Internacional: Realicé prácticas en una empresa hotelera internacional como parte de mi formación en Sistemas Microinformáticos y Redes (SMX). Desarrollé habilidades en la gestión de sistemas y tecnologías de la información en un entorno empresarial dinámico.
+Prácticas en Empresa Hotelera Internacional: Realicé prácticas en una empresa hotelera internacional como parte de mi formación en Sistemas Microinformáticos y Redes (SMX). Desarrollé habilidades en la gestión de sistemas y tecnologías de la información en un entorno empresarial donde se utilizaban metodologías Agile, fomentando la colaboración efectiva y la entrega continua, ademas asistía a reuniones diarias en inglés, lo que mejoró mi habilidad para comunicarme efectivamente en un entorno profesional internacional..
 
 ## Habilidades Técnicas 💻
 
