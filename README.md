@@ -9,8 +9,8 @@ Durante mi trayectoria, he participado en la creación de varios videojuegos sim
 
 ## Experiencia Laboral 🌐
 Prácticas en Empresa Hotelera Internacional: Realicé prácticas en una empresa hotelera internacional como parte de mi formación en Sistemas Microinformáticos y Redes (SMX). Desarrollé habilidades en la gestión de sistemas y tecnologías de la información en un entorno empresarial.
-      - Participé en el desarrollo de sistemas utilizando metodologías Agile, fomentando la colaboración efectiva y la entrega continua.
-      - Asistía a reuniones diarias en inglés, lo que mejoró mi habilidad para comunicarme efectivamente en un entorno profesional internacional.
+- ** Participé en el desarrollo de sistemas utilizando metodologías Agile, fomentando la colaboración efectiva y la entrega continua.**
+- ** Asistía a reuniones diarias en inglés, lo que mejoró mi habilidad para comunicarme efectivamente en un entorno profesional internacional.**
       
 ## Habilidades Técnicas 💻
 
